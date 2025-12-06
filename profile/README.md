@@ -11,10 +11,10 @@
 
 - **Website:** https://hprasath.com  
 - **LinkedIn:** https://linkedin.com/in/hprasathg  
-- **Catbee Docs:** https://catbee.npm.hprasath.com/  
-- **NPM Packages:**
-  - https://www.npmjs.com/package/@catbee/utils  
-  - https://www.npmjs.com/package/@ng-catbee/monaco-editor
+- **Catbee Docs:** https://catbee.in
+- **NPM Organizations:**
+  - https://www.npmjs.com/org/catbee
+  - https://www.npmjs.com/org/ng-catbee
 
 ---
 
@@ -47,8 +47,7 @@
 Creator & maintainer of tools under **[Catbee Technologies](https://github.com/catbee-technologies)**:
 
 - **[`@catbee/utils`](https://github.com/catbee-technologies/catbee-utils)** – Node.js utility collection  
-- **[`@ng-catbee/monaco-editor`](https://github.com/catbee-technologies/ng-catbee/tree/main/packages/monaco-editor)** – Monaco Editor for Angular  
-- Internal CLI tools & productivity libraries  
+- **[`@ng-catbee`](https://github.com/catbee-technologies/ng-catbee)** – Angular Package Collection
 
 ---
 
